@@ -1,4 +1,4 @@
-# 💇‍♀️ Booking System
+# Booking System
 
 A simple and user-friendly web app to help individuals track and manage their personal appointments. Built with React, Firebase, and TailwindCSS.
 
