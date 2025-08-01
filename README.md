@@ -21,11 +21,7 @@ A simple and user-friendly web app to help individuals track and manage their pe
 - **Backend:** Firebase Authentication & Firestore
 - **Deployment:** Vercel 
 
----
 
-## 📸 Screenshots
-
-> *(You can add screenshots of the dashboard, form, or login page here)*
 
 
 
